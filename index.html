@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lights Out</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Lights Out💡</h1>
+  </header>
+  <div class="container">
+    
+    <div id="options">
+      <button class="button" id="startButton">Start Game</button>
+      <button class="button" id="instructionsButton">Instructions</button>
+      <button class="button" id="addendumButton">Addendum</button>
+    </div>
+    <div class="grid" id="grid"></div>
+  </div>
+  <div id="popup" class="popup">
+    <div id="popupContent" class="popup-content"></div>
+    <button id="closePopupButton" class="close-popup">Close</button>
+  </div>
+  <footer>
+    <p>Last updated: 
+        <span id="lastModified"></span>
+    </p>
+</footer>
+<script type="text/javascript">
+     var x = document.lastModified;
+     document.getElementById('lastModified').textContent = x;
+</script>
+
+  <script src="script.js"></script>
+</body>
+</html>
