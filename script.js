@@ -123,7 +123,7 @@ document.addEventListener("DOMContentLoaded", function() {
       <ul>
         <li><strong>Algorithm Optimization:</strong> I prioritized optimizing the algorithm responsible for toggling lights and their neighboring cells to ensure smooth and efficient gameplay across different board configurations.</li>
         <li><strong>User-Centric Design:</strong> I focused on creating an intuitive and visually appealing user interface, with clear visual cues and interactive elements to guide players through the game.</li>
-        <li><strong>Difficulty Levels:</strong> Implementing two difficulty levels—easy and hard—allowed me to cater to players of varying skill levels and provide a tailored gaming experience for both casual and experienced players.</li>
+        <li><strong>Difficulty Levels:</strong> Implementing two difficulty levels—easy and hard—allowed me to cater to players of varying skill levels and provide a tailored gaming experience for any player.</li>
       </ul>
       <h3>Challenges faced and how I overcame them:</h3>
       <p>
