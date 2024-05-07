@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function() {
       popupContent.innerHTML = `<h2>Addendum</h2>
       <p>
       During the development of the Lights Out game, I embarked on a meticulous process that involved careful planning, iterative design, and strategic decision-making. <br>
-        <strong>Conceptualization:</strong> The process started with brainstorming sessions to conceptualize game mechanics and design. I aimed for a simple yet challenging puzzle game inspired by classic grid-based puzzles.
+        <strong>Conceptualization:</strong> The process started with brainstorming sessions to conceptualize game design. I aimed for a simple yet challenging puzzle game inspired by classic grid-based puzzles.
       </p>
       <p>
         <strong>Prototyping:</strong> Initial prototypes using HTML, CSS, and JavaScript helped experiment with mechanics and UI elements. Iterations refined mechanics and visuals for a better player experience.
